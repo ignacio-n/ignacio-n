@@ -3,8 +3,7 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-<!-- VISTAS DEL PERFIL -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
+
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Ignacio Menendez 👋
 
 Soy estudiante de la secundaria Proa de 6º año
@@ -41,3 +40,8 @@ A continuacion te mostrare los programas que utilize en la secundaria, haciendo 
 ## Contacto y apoyo:
 
 Email-->inmenendez@escuelasaproa.edu.ar
+<!-- GIF FOOTER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
